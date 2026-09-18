@@ -1,30 +1,36 @@
 Privacy Policy
-Last Updated: September 16, 2026
-E reader PDF,EPUB ("the App") is committed to protecting user privacy. This Privacy Policy explains how we handle your information when you use our mobile application.
-1. Overview
-The App is designed to be a private, offline-first document reader. Most functionality occurs locally on your device, and we do not require you to create an account or provide personal information to use the service.
+Last Updated: September 18, 2026
+E Reader Books ("the App") is committed to protecting user privacy. This Privacy Policy describes our practices regarding the collection, use, and disclosure of information when you use our mobile application.
+1. Offline-First Commitment
+The App is designed as a lightweight, offline-first tool. We prioritize your privacy by processing your documents locally on your device hardware. Most features of the app function entirely without an internet connection.
 2. Information Collection and Use
-A. Personal Data
-We do not collect, store, or transmit any personal identification information, such as your name, email address, phone number, or physical address.
-B. Usage Data
-The App may track local reading statistics (such as pages read, books opened, and time spent reading). This data is stored locally on your device and is never uploaded to our servers or shared with third parties.
-C. Document Privacy
-The App requires permission to access your device's storage to display your EPUB and PDF files. Your books and documents are processed locally on your hardware. We do not upload, copy, or share your private documents or their contents.
+A. Personal Information
+We do not collect, store, or transmit any personal identification information. You are not required to create an account, provide an email address, or share any contact details to use E Reader Books.
+B. Usage and Reading Data
+The App may generate local statistics to improve your experience, such as tracking your last read page and document progress. This data is stored locally on your device and is never transmitted to our servers or any third-party analytics providers.
+C. Local File Access
+To function as a reader, the App requires your permission to access device storage. This is used solely to:
+•
+Identify compatible document files.
+•
+Extract covers or generate document icons for your library view.
+•
+Load document content for reading. Your files are never uploaded, scanned for content, or shared with external parties.
 3. Third-Party Services (Advertising)
-We use Google AdMob to serve advertisements within the App. These third-party partners may collect and use certain data to provide personalized or non-personalized ads:
+We use Google AdMob to serve advertisements, which helps us keep the app free to use. These third-party partners may collect and use non-personal data to serve relevant ads:
 •
-Device Identifiers: (e.g., Android Advertising ID)
+Device Identifiers: (e.g., Android Advertising ID).
 •
-Location Data: General location inferred from your IP address.
+General Location: Derived from your IP address.
 •
-Cookies/Tracking: To measure ad performance and prevent fraud.
-For more information on how Google handles your data, please visit: Google Privacy & Terms
-4. GDPR Compliance (EEA Users)
-For users located in the European Economic Area (EEA), we use Google’s User Messaging Platform (UMP) to gather informed consent before collecting any data for advertising purposes. You have the right to withdraw or modify your consent settings at any time within the App.
-5. Security
-We value your trust in providing us access to your local files. We use industry-standard libraries to ensure your documents are handled safely. However, remember that no method of electronic storage or transmission is 100% secure.
+Ad Interactions: Data about which ads you see and click.
+For detailed information, please review the Google Privacy & Terms.
+4. GDPR & Consent (For EEA Users)
+For users in the European Economic Area (EEA), the App utilizes Google’s User Messaging Platform (UMP) to obtain informed consent for data collection by our advertising partners. You have the right to modify or withdraw your consent at any time via the App settings.
+5. Data Security
+We implement industry-standard practices to ensure the integrity of your local data. Since your documents never leave your device, the security of your files is primarily governed by your device's own security settings and encryption.
 6. Changes to This Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this page. Your continued use of the App after these changes constitutes your acceptance of the new policy.
+We may update our Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any changes by updating the "Last Updated" date at the top of this document.
 7. Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 Email: fezdecor@gmail.com
